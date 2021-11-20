@@ -199,7 +199,7 @@
         </plugins>
     </build>
      
-    <!--所有子模块 -->
+    <!--所有子模块 模块化开发-->
     <modules>
         <module>ssm_case_dao</module>
         <module>ssm_case_service</module>
