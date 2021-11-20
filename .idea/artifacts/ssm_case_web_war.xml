@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm_case_web:war">
+    <output-path>$PROJECT_DIR$/ssm_case_web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm_case_web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm_case_web.war">
+      <element id="artifact" artifact-name="ssm_case_web:war exploded" />
+    </root>
+  </artifact>
+</component>
