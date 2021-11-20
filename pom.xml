@@ -198,7 +198,8 @@
             </plugin>
         </plugins>
     </build>
-
+     
+    <!--所有子模块 -->
     <modules>
         <module>ssm_case_dao</module>
         <module>ssm_case_service</module>
@@ -207,6 +208,6 @@
         <module>ssm_case_utils</module>
         <module>ssm_case_web</module>
     </modules>
-
+	
 
 </project>
