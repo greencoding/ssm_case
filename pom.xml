@@ -177,7 +177,7 @@
         </dependency>
     </dependencies>
 
-    <!-- 添加tomcat7插件 -->
+    <!-- 添加tomcat7插件 1.0-->
     <build>
         <plugins>
             <plugin>
