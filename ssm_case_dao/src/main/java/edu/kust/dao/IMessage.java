@@ -8,6 +8,9 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+留言dao接口
+ */
 @Repository("messageDao")
 public interface IMessage {
 
